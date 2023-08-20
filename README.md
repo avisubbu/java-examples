@@ -1,6 +1,6 @@
 # java-examples
 
-# java-lang
+## java-lang
 
 This sub-project contains the improvements introduced from JDK 8. The current version of Jdk used is 17. The project will be updated with the changes as we progress.
 
