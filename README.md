@@ -12,11 +12,18 @@ execute the jar file: java -jar java-lang-1.0-SNAPSHOT.jar
 
 The resultant output should look like below -
 
-Hi This is my first tutorial
-10026.9912109375
-Hello Avinash! Welcome to Java session...!
-Hello! I am Avinash. Welcome back....!
-true
-false
-true
-3.141592653589793
+&nbsp; Hi This is my first tutorial
+
+&nbsp; 10026.9912109375
+
+&nbsp; Hello Avinash! Welcome to Java session...!
+
+&nbsp; Hello! I am Avinash. Welcome back....!
+
+&nbsp; true
+
+&nbsp; false
+
+&nbsp; true
+
+&nbsp; 3.141592653589793
