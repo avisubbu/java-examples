@@ -26,12 +26,14 @@ public interface JavaLangExample {
     //Consumer
     Consumer<String> transformAndPrint = (name) ->
             System.out.printf("""
-                    Hello %s! Welcome to Java session...!""", name);
+                    Hello %s! Welcome to Java session...!
+                    """, name);
 
     //BiConsumer
     BiConsumer<String, String> respond = (name, message) ->
             System.out.printf("""
-                    Hello! I am %s. %s""",name, message);
+                    Hello! I am %s. %s
+                    """,name, message);
 
     //Predicate
     Predicate<String> validateName = (name) ->
