@@ -1,4 +1,4 @@
-package org.example.java.lang.examples;
+package org.example.java.lang.examples.oop.relationship;
 
 import java.util.ArrayList;
 import java.util.Collection;

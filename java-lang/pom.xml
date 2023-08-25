@@ -39,7 +39,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.java.lang.examples.JavaLangExample</mainClass>
+                            <mainClass>org.example.java.lang.examples.latest.JavaLangExample</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

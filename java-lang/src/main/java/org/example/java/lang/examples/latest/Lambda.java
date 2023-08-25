@@ -1,4 +1,4 @@
-package org.example.java.lang.examples;
+package org.example.java.lang.examples.latest;
 
 @FunctionalInterface
 interface I {
